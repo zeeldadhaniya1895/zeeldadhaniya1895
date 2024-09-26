@@ -1,24 +1,99 @@
-<h1 align="center">Hi 👋, I'm Zeeldadhaniya1895</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeldadhaniya1895&label=Profile%20views&color=0e75b6&style=flat" alt="zeeldadhaniya1895" /> </p>
+<h1 align="center">Hi, I'm Zeel Dadhaniya 👋</h1>
+<h3 align="center">Developer | Tech Enthusiast | Open-Source Contributor</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeeldadhaniya1895" alt="zeeldadhaniya1895" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
+<!-- About Me Section -->
+<h2 align="left">👨‍💻 About Me</h2>
 <p align="left">
-<a href="https://twitter.com/zeeldadhaniya18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeeldadhaniya18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/zeel-dadhaniya-79ab7b2b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeel-dadhaniya-79ab7b2b8" height="30" width="40" /></a>
-<a href="https://fb.com/zeel dadhaniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zeel dadhaniya" height="30" width="40" /></a>
-<a href="https://instagram.com/zeeldadhaniya1895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeeldadhaniya1895" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/zeeldadhaniya1895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="zeeldadhaniya1895" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/zeeldadhaniya1895" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="zeeldadhaniya1895" height="30" width="40" /></a>
+  I'm passionate about creating elegant solutions, writing clean code, and diving into new technologies. 
+  I'm driven by a constant curiosity and love for solving real-world problems through code.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br clear="both" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeeldadhaniya1895&show_icons=true&locale=en&layout=compact" alt="zeeldadhaniya1895" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeeldadhaniya1895&show_icons=true&locale=en" alt="zeeldadhaniya1895" /></p>
+<!-- Meme 2 Floating Near Technologies Section -->
+<div style="margin: 10px;" align="center">
+  <img src="https://raw.githubusercontent.com/codewithpom/dev-meme/main/images/4.jpg" width="300"/>
+</div>
 
+<!-- Technologies & Tools Section -->
+<h2 align="right">🚀 Technologies & Tools</h2>
+<p align="right">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge&height=30" />
+</p>
+
+<p align="right">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge&height=30" />
+</p>
+
+<p align="right">
+  <!-- Backend & Tools -->
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge&height=30" />
+</p>
+
+<p align="right">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge&height=30" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge&height=30" />
+</p>
+
+<br clear="both" />
+
+---
+
+<!-- Projects Section -->
+<h2 align="left">🧑‍💻 Current Projects</h2>
+<ul align="left">
+  <li><a href="https://github.com/YourUsername/Authify">Authify</a>: Authentication system using NextAuth, Next.js, Prisma, PostgreSQL, TypeScript.</li>
+  <li><a href="https://github.com/YourUsername/Zeelink">Zeelink</a>: A video calling app with functionalities similar to Zoom.</li>
+</ul>
+
+<br clear="both" />
+
+---
+
+<!-- GitHub Achievements Section -->
+<h2 align="center">🌟 GitHub Achievements</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=dracula&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+<!-- Let's Connect Section -->
+<h2 align="right">📫 Let's Connect!</h2>
+<p align="right">
+  <a href="https://linkedin.com/in/zeel-dadhaniya-79ab7b2b8" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://x.com/zeeldadhaniya18" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:zeeldadhaniya1895@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/zeeldadhaniya1895" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+<br clear="both" />
+
+---
